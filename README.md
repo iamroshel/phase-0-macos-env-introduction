@@ -130,3 +130,4 @@ application _and_ through the "Terminal" application.
   be using the browser and the "Terminal" application.
 - You should be able to start and stop the environment setup.
 - If you get stuck, reach out to your classmates or an instructor.
+- roshel
